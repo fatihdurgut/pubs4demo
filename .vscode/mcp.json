@@ -1,0 +1,27 @@
+{
+	"servers": {
+		 "desktop-commander": {
+			"command": "docker",
+			"args": [
+					"run",
+					"-i",
+					"--rm",
+					"-v", "D:\\source\\repos:/mnt/repos",
+					"mcp/desktop-commander",
+					"npm",
+					"run",
+					"start"
+				]
+			},
+			 "playwright": {
+				"command": "docker",
+					"args": [
+						"run",
+						"-i",
+						"--rm",
+						"mcp/playwright"
+					]
+				}
+	},
+	"inputs": []
+}
