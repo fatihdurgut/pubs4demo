@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PubsModern.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a943f3089ecc353242c95b04df623e78ebdbbfb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2de22c62f80a15f08b9ded09017d4a4ccb747c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PubsModern.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PubsModern.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
