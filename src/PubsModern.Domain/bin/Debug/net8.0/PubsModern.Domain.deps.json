@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PubsModern.Domain/1.0.0": {
+        "runtime": {
+          "PubsModern.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PubsModern.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

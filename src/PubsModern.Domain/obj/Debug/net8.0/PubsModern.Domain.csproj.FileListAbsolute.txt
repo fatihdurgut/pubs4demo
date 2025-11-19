@@ -1,0 +1,12 @@
+D:\source\repos\pubs4demo\src\PubsModern.Domain\bin\Debug\net8.0\PubsModern.Domain.deps.json
+D:\source\repos\pubs4demo\src\PubsModern.Domain\bin\Debug\net8.0\PubsModern.Domain.dll
+D:\source\repos\pubs4demo\src\PubsModern.Domain\bin\Debug\net8.0\PubsModern.Domain.pdb
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\PubsModern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\PubsModern.Domain.AssemblyInfoInputs.cache
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\PubsModern.Domain.AssemblyInfo.cs
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\PubsModern.Domain.csproj.CoreCompileInputs.cache
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\PubsModern.Domain.sourcelink.json
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\PubsModern.Domain.dll
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\refint\PubsModern.Domain.dll
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\PubsModern.Domain.pdb
+D:\source\repos\pubs4demo\src\PubsModern.Domain\obj\Debug\net8.0\ref\PubsModern.Domain.dll

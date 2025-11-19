@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: 'Create GitHub Issues from implementation plan phases using feature_request.yml or chore_request.yml templates.'
-tools: ['search/codebase', 'search', 'github', 'create_issue', 'search_issues', 'update_issue']
+tools: ['runCommands', 'runTasks', 'edit', 'runNotebooks', 'search', 'new', 'Azure MCP/search', 'microsoftdocs/mcp/*', 'github/*', 'extensions', 'todos', 'runSubagent', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'github.vscode-pull-request-github/copilotCodingAgent', 'github.vscode-pull-request-github/issue_fetch', 'github.vscode-pull-request-github/suggest-fix', 'github.vscode-pull-request-github/searchSyntax', 'github.vscode-pull-request-github/doSearch', 'github.vscode-pull-request-github/renderIssues', 'github.vscode-pull-request-github/activePullRequest', 'github.vscode-pull-request-github/openPullRequest']
 ---
 # Create GitHub Issue from Implementation Plan
 
